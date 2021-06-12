@@ -1,0 +1,13 @@
+*.tar.gz
+*.pb
+*.jpeg
+.keras/
+.profile
+.viminfo
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+cuda/*
+variables/
+my_tensorflow/venv/
