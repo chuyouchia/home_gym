@@ -11,3 +11,5 @@
 cuda/*
 variables/
 my_tensorflow/venv/
+test/
+*.mp4
